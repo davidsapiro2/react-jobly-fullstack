@@ -4,6 +4,10 @@ Jobly is a web application built using React and Express that allows users to se
 
 ## [Live Demo Link](https://natural-plant.surge.sh/)
 
+You can log into the demo site with the following credentials:
+- Username: `testuser`
+- Password: `password`
+
 ### Current Features
 - User authentication and authorization
 - Search for jobs by keyword or search for companies by name
