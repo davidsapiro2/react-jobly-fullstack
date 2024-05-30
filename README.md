@@ -1,3 +1,5 @@
+# Jobly #
+
 Jobly is a web application built using React and Express that allows users to search and apply for job listings. Users can sign up, log in, and update their profile information. This app maintains 100% test coverage.
 
 ## [Live Demo Link](https://natural-plant.surge.sh/)
