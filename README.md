@@ -73,3 +73,9 @@ Frontend:
 - react-dom
 - react-router-dom
 - react-jwt
+
+## Authors
+
+- David Sapiro
+- Gracee Gallivan (frontend pair programming partner)
+- Ji Hye Yoon  (backend pair programming partner)
